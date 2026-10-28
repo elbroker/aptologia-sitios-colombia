@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-barrios-bogota-precios.onrender.com/sitemap.xml
